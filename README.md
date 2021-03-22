@@ -1,7 +1,7 @@
 #Handwriting_Digit_Recognition
 
 ##Neural Network
-- RN
+- RNN
 
 ##DataSet
 - MNIST
