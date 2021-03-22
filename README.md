@@ -1,9 +1,9 @@
-#Handwriting_Digit_Recognition
+# Handwriting_Digit_Recognition
 
-##Neural Network
+## Neural Network
 - RNN
 
-##DataSet
+## DataSet
 - MNIST
 - Noisy - MNIST
 - SVHN (Stree View House Number)
